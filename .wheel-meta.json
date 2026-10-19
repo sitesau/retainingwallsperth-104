@@ -1,0 +1,22 @@
+{
+  "wheel_id": 437,
+  "structure": "umbrella",
+  "slug": "retainingwallsperth-104",
+  "project": "retaining-walls-perth-what-to-expect-01227aded9189764623ea9c389",
+  "parent_t1_ref": "retainingwallsperth-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperth.au",
+  "primary_kw": "retaining walls perth what to expect",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-perth-what-to-expect-01227aded9189764623ea9c389/",
+  "tier": "T2",
+  "writeback_nonce": "a22a188b4190d5f7",
+  "links": [
+    {
+      "target_url": "http://retaining-walls-perth-checklist-5bcaca2009ad3aae1fdefb20e29c4e9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Retaining Walls Perth Checklist: Checklist for Owners",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
